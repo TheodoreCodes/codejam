@@ -1,0 +1,6 @@
+*.in
+*.txt
+*.pyc
+
+.DS_Store
+.vscode
